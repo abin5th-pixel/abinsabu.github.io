@@ -9,5 +9,5 @@ This portfolio will showcase my projects in materials engineering and mechanical
 ### 1️⃣ My First Project
 - **Problem:** Example: design a lightweight mechanical bracket
 - **Tools:** SolidWorks, Excel
-- **Result:** [View PDF](side plate 600.JPG)
-![Project Preview](side plate 600.JPG)
+- **Result:** [View PDF](side_plate_600.JPG)
+![Project Preview](side_plate_600.JPG)
